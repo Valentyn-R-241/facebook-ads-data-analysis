@@ -1,13 +1,19 @@
-# Stack Overflow Developer Survey 2024 — Small Analysis
+# Facebook Ads Data Analysis
 
-This is a short data analysis project based on the 2024 Stack Overflow Developer Survey.
+This Jupyter Notebook explores a dataset from Facebook Ads to analyze the performance of advertising campaigns.
 
-The goal was to practice working with a real dataset in Python, using:
+## What's inside
 
-- pandas for data cleaning and transformation  
-- matplotlib and seaborn for visualizations  
-- Jupyter Notebook for documenting the process
+- Basic data cleaning  
+- Campaign-level performance stats  
+- Visualizations of ad spend, reach, and leads  
+- A few quick insights
 
-Nothing fancy — just basic exploration: who the developers are, what they use, and a few charts about it.
+## Tools used
 
-Feel free to open the notebook and take a look
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn
+
+*Note: The data is fictional or anonymized and used for learning purposes only.*
